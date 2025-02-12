@@ -103,7 +103,7 @@ const Navbar = () => {
           </li>
           <li>
             <a className="font-Ovo" onClick={closeMenu} href="#services">
-              Services
+              Experience
             </a>{" "}
           </li>
           <li>
